@@ -979,6 +979,15 @@ ${data.credits}
 
 ${renderLicenseSection(data.license)}
 
+## Tests
+
+${data.tests}
+
+## Questions
+
+For any questions please contact ${data.email}.
+
+You can find me on gitHub at https://github.com/${data.username}.
 `;
 }
 
